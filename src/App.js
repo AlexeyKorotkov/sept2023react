@@ -1,7 +1,9 @@
+import {Characters} from "./Components/RickAndMorty/Characters";
+
 const App = () => {
     return (
         <div>
-           App
+          <Characters/>
         </div>
     );
 };
