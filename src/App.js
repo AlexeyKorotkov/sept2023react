@@ -1,7 +1,9 @@
+import {Posts} from "./Components/Posts/Posts";
+
 const App = () => {
     return (
         <div>
-           App
+           <Posts/>
         </div>
     );
 };
